@@ -1,0 +1,95 @@
+body {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.aside {
+    border: 2px solid red;
+    width: 13%;
+    float: left;
+    height: 629px;
+    background-color: rgb(3, 51, 35);
+    color: rgb(255, 235, 152);
+    margin: 0px;
+    border-radius: 12px;
+}
+
+.mydiv {
+    border: 2px solid green;
+    width: 86%;
+    float: right;
+    height: 629px;
+    background-color: #bed9d0;
+    border-radius: 12px;
+
+}
+
+.div2 {
+    border: 2px solid darkmagenta;
+    clear: both;
+    padding: 26px 66px;
+}
+
+.aside div img {
+    border: 2px solid black;
+    padding: 10px 19px;
+    position: absolute;
+    height: 98px;
+    border-radius: 20px;
+    border-color: rgb(241, 13, 13);
+    margin-left: 29px;
+    margin-top: 9px;
+}
+
+h4 {
+    text-align: center;
+    padding: 130px 26px 1px 19px;
+    letter-spacing: 4px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(255, 235, 152);
+}
+
+ul li h4 {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+ul li {
+    list-style: none;
+    text-align: center;
+}
+
+ul {
+    padding: 3px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 38px;
+    margin: 0px 14px;
+    letter-spacing: 14px
+}
+.mydiv h4 {
+    text-align: center;
+    padding: 0px;
+    font-size: 21px;
+    letter-spacing: 3px;
+}
+/* .mydiv h3{ 
+    text-align: center;
+    font-size: 15px;
+}*/
